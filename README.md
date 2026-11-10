@@ -1,5 +1,5 @@
 # Jesús Enrique Rojas
-### IT Infrastructure Leader & Full-Stack Developer
+### IT Infrastructure Leader & Full-Stack IA Developer
 
 > +20 años transformando infraestructura crítica y en constante evolución, redes y desarrollo web con IA.
 
